@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LookAndFeel</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="clearButton">Clear</string>
+    <string name="submitButton">Submit</string>
+    <string name="spinButton">Spin</string>
+    <string name="moveButton">Move</string>
+    <string name="fadeButton">Fade</string>
+    <string name="animating">Animating</string>
+</resources>
